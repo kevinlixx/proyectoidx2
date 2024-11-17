@@ -24,11 +24,12 @@ function Ejercicio2() {
   return (
     <div style={{ textAlign: 'center' }}>
       <h1>Steins Gate</h1>
-      <p><img src={imgsAnime[nroImgAnime]} alt="anime" style={{ width: '70%' }} /></p>
       <p>
         <input type="button" value="<" onClick={imgAnimePrevia} />
         <input type="button" value=">" onClick={imgsAnimeiguiente} />
       </p>
+      <p><img src={imgsAnime[nroImgAnime]} alt="anime" style={{ width: '70%' }} /></p>
+      
     </div>
   );
 }
