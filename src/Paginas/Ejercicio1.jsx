@@ -9,8 +9,8 @@ function Ejercicio1() {
   }
 
   return (
-    <div>
-      <p style={{ textAlign: 'center' }}>
+    <div  style={{ textAlign: 'center' }}>
+      <p>
         Kevin Leandro Lis Galeano ID:797602<br />
         David Alejandro Yazo Barbosa ID: 785337<br />
         Juan Pablo Montaño Ladino ID: 604864
