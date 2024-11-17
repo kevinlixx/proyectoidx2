@@ -11,6 +11,7 @@ jobs:
     permissions:
       id-token: write
       contents: read
+      pages: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -34,4 +35,3 @@ jobs:
           install_command: npm ci
           build_command: npm run build
           caching: true
-
