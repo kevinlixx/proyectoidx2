@@ -10,6 +10,10 @@ function Ejercicio1() {
 
   return (
     <div>
+      <p style={{ textAlign: 'center' }}>Kevin Leandro Lis Galeano ID:797602
+      David Alejandro Yazo Barbosa ID: 785337
+      Juan Pablo Montaño Ladino ID: 604864
+      </p>
       <p>
         <input 
           type="radio" 
