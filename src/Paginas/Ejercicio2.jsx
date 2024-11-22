@@ -1,8 +1,5 @@
 import {useState} from 'react'
-import portada from '../imgs/portada.jpeg';
-import steins1 from '../imgs/steins1.jpeg';
-import steins2 from '../imgs/steins2.jpeg';
-import steins3 from '../imgs/steins3.jpeg';
+
 
 
 function Ejercicio2() {
